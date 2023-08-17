@@ -9,6 +9,7 @@
 }
 
 header {
+  position: fixed;
   width: 1920px;
   height: 154px;
   margin: 0 auto;
@@ -104,6 +105,7 @@ header .header-right .bookNow:hover {
 }
 
 main .section1 {
+  padding-top: 154px;
   padding-left: 181px;
   display: flex;
   justify-content: space-between;
